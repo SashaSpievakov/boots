@@ -1,0 +1,1 @@
+!function(){const e=document.querySelector("#button"),t=document.querySelectorAll("input"),o=document.querySelector(".order__wrapper"),c=document.querySelector(".order__success");e.addEventListener("click",(()=>{t.forEach((e=>{e.value=""})),setTimeout((()=>{o.style.display="none",c.style.display="block"}),300)}))}();
