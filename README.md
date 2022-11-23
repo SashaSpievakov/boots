@@ -1,4 +1,4 @@
-# Boots Shop Landing 🪴
+# Boots Shop Landing 🥾
 
 ### [View Deployment](https://alexandrspevakov.github.io/boots/) &nbsp; 🖥️
 
